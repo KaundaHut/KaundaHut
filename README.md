@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Name</h1>
+<h1 align="center">Hi 👋, I'm Augustine </h1>
 <h3 align="center">Intro</h3>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Machine Learning algorithms, Python, SQL**
 
-- 📫 How to reach me **
+- 📫 How to reach me *number:07882015165*
 
-- 📄 Know about my experiences [I am currently working with.]
+- 📄 Know about my experiences [I am currently working with Roro limited as a company director]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
