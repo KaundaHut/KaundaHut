@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Machine Learning algorithms, Python, SQL**
 
-- 📫 How to reach me *number:07882015165*
+- 📫 How to reach me *number:07882015165* *email:kaundaaugustine1@gmail.com*
 
 - 📄 Know about my experiences [I am currently working with Roro limited as a company director]
 
